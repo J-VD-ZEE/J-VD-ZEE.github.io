@@ -1,0 +1,76 @@
+Body {
+	background: linear-gradient(135deg, #750CE8, #140DFF);
+	padding: 30px;
+
+}
+
+h1 {
+	color: #FFFFFF;
+	font-size: 40px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "sans-serif";
+	font-weight: bolder;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+p {
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', 'sans-serif';
+	font-weight: normal;
+	text-align: center;
+}
+
+.button1 {
+    background-color: #4CAF50;
+    border: none;
+	border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	margin: 5px;
+}
+
+.button2 {
+    background-color: #E83419;
+    border: none;
+	border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	margin: 5px;
+}
+
+.button3 {
+    background-color: #21A5E8;
+    border: none;
+	border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	margin: 5px;
+}
+
+.button4 {
+    background-color: #E8A11F;
+    border: none;
+	border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	margin: 5px;
+}
+@media (max-width: 1078px){
+}
